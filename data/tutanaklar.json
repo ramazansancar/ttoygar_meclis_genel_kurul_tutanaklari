@@ -1,5 +1,28 @@
 [
  {
+  "id": "d8806500-7807-43c2-9f76-01a20d7ed008",
+  "meclis": "TBMM",
+  "kaynak": "tbmm.gov.tr",
+  "donem": 28,
+  "yasama_yili": 5,
+  "birlesim": 20,
+  "cilt": "",
+  "tarih": "2026-11-24",
+  "durum": "Ham",
+  "dosya": "tutanaklar/2026-11-24.txt",
+  "metin_kaynagi": "html",
+  "html": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak/28/5/20/Ham/06eacb5c-3a49-4ad6-87b1-a5523cfdde9e.html",
+  "docx": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak/28/5/20/Ham/44aa8e11-31aa-4eee-8cb9-599f9aa3eb33.docx",
+  "pdf": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak/28/5/20/Ham/0a956ab9-dde3-4802-b09e-5b3927fc0441.pdf",
+  "basilmis_pdf": "",
+  "gundem_pdf": "",
+  "eski_harfli_pdf": "",
+  "wayback": false,
+  "release_etiket": "kaynak-tbmm-d28-y5",
+  "release_durum": "Ham",
+  "release_repo": "ramazansancar/ttoygar_meclis_genel_kurul_tutanaklari"
+ },
+ {
   "id": "aa31826a-2655-405f-ab8e-01a1f38e5d1b",
   "meclis": "TBMM",
   "kaynak": "tbmm.gov.tr",
